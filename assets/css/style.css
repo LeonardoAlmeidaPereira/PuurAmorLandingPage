@@ -22,7 +22,6 @@
 body,
 html {
     background-color: var(--color-purple-4);
-    overflow-x: hidden;
 }
 
 span {
